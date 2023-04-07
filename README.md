@@ -1,2 +1,5 @@
 # la-concha-e-la-lora
-Prueba para crear paquetes en npm.
+    I am just trying to create an npm package. 
+
+# Install
+    npm install -g la-concha-e-la-lora
