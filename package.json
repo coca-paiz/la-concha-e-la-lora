@@ -1,0 +1,19 @@
+{
+  "name": "la-concha-e-la-lora",
+  "version": "1.0.0",
+  "description": "Prueba para crear paquetes en npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Paiz <cocapaiz.98@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "la-concha-e-la-lora": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
