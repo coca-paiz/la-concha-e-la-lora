@@ -11,6 +11,13 @@ const messages = [
     "Reinventing the wheel. Again.",
     "This is not the commit message you are looking for",
     "Batman! (this commit has no parents)",
+    "My eyes!, my eyes!",
+    "PIVOT",
+    "We were on a break",
+    "How you doing?",
+    "My precious",
+    "Dobby is a free elf.",
+    "It's like Barbie and... Grandpa Ken.",
 ];
 
 const funnyCommit = () => {
